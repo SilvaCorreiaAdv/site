@@ -5,8 +5,8 @@
 "fixa": true
 },
 "": {
-"h": "bde09b55d08ce872",
-"d": "2026-11-10"
+"h": "3f3f713bac65da40",
+"d": "2026-11-11"
 },
 "eixo": {
 "h": "f1ee4d5170ce73fd",
@@ -21,39 +21,43 @@
 "d": "2026-11-10"
 },
 "atuacao": {
-"h": "deb78eac9b20d2db",
-"d": "2026-11-10"
+"h": "781c7e3c897314b3",
+"d": "2026-11-11"
 },
 "artigos": {
-"h": "c7cffe59ca91cc52",
-"d": "2026-11-10"
+"h": "e6b42efc4e743624",
+"d": "2026-11-11"
 },
 "atuacao/execucao-fiscal": {
-"h": "b369bb59425f9ff6",
-"d": "2026-11-10"
+"h": "cdfad8d1a4f75dfb",
+"d": "2026-11-11"
 },
 "atuacao/transacao-tributaria": {
-"h": "993ff1a4225d043b",
-"d": "2026-11-10"
+"h": "07d4fce4225e5283",
+"d": "2026-11-11"
 },
 "atuacao/planejamento-tributario": {
-"h": "a1869dbf11abd8c6",
-"d": "2026-11-10"
+"h": "935eb3e2322c3182",
+"d": "2026-11-11"
 },
 "atuacao/creditos-tributarios-e-precatorios": {
-"h": "c21f23413b3a6b53",
-"d": "2026-11-10"
+"h": "4d5f6534f70b2bb0",
+"d": "2026-11-11"
 },
 "dr-wesley-silva-correia": {
-"h": "2d8e3589fd47189e",
-"d": "2026-11-10"
+"h": "dd69ff11e0859981",
+"d": "2026-11-11"
 },
 "contato": {
-"h": "eb6d78de3e316aaa",
-"d": "2026-11-10"
+"h": "319790fe131c340d",
+"d": "2026-11-11"
 },
 "eixo/precedente-01": {
 "h": "42d4e75485944167",
 "d": "2026-11-10"
+},
+"privacidade": {
+"h": "07e6bbb87404cf02",
+"d": "2026-11-11"
 }
 }
