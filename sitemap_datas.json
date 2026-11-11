@@ -5,7 +5,7 @@
 "fixa": true
 },
 "": {
-"h": "3f3f713bac65da40",
+"h": "71137a8ce36efc34",
 "d": "2026-11-11"
 },
 "eixo": {
@@ -25,7 +25,7 @@
 "d": "2026-11-11"
 },
 "artigos": {
-"h": "e6b42efc4e743624",
+"h": "ccebdda518932808",
 "d": "2026-11-11"
 },
 "atuacao/execucao-fiscal": {
@@ -37,7 +37,7 @@
 "d": "2026-11-11"
 },
 "atuacao/planejamento-tributario": {
-"h": "935eb3e2322c3182",
+"h": "26e58c5df2f9868f",
 "d": "2026-11-11"
 },
 "atuacao/creditos-tributarios-e-precatorios": {
@@ -45,7 +45,7 @@
 "d": "2026-11-11"
 },
 "dr-wesley-silva-correia": {
-"h": "dd69ff11e0859981",
+"h": "0a388b0b59b85365",
 "d": "2026-11-11"
 },
 "contato": {
@@ -59,5 +59,10 @@
 "privacidade": {
 "h": "07e6bbb87404cf02",
 "d": "2026-11-11"
+},
+"artigos/simples-nacional-2027-cbs-ibs-o-que-decidir": {
+"h": "",
+"d": "2026-11-11",
+"fixa": true
 }
 }
