@@ -125,13 +125,14 @@ html{scroll-behavior:smooth} h2[id]{scroll-margin-top:21px}
 <p>Podemos usar a etiqueta de medição do Google nesta página? Ela grava cookies e serve só para o escritório saber se o anúncio
 resultou em contato. <a href="../../privacidade/">Política de privacidade</a></p>
 <div><button type="button" data-r="sim">Aceitar</button><button type="button" data-r="nao">Recusar</button></div></div>
-<script>(function(){var K="sc_medicao",T="AW-10789989516",W="AW-10789989516/DMv6CNq8l-caEIzZiJko",av=document.getElementById("med"),on=false;
+<script>(function(){var K="sc_medicao",T="AW-10789989516",W="AW-10789989516/DMv6CNq8l-caEIzZiJko",G="AW-10789989516/vkKzCPjmhbcdEIzZiJko",av=document.getElementById("med"),on=false;
 function ligar(){if(on)return;on=true;window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments)};
 gtag("consent","default",{ad_storage:"granted",ad_user_data:"granted",ad_personalization:"denied",analytics_storage:"denied"});
 gtag("set","allow_ad_personalization_signals",false);gtag("js",new Date());gtag("config",T);
 var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id="+T;document.head.appendChild(s);
-document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest('a[href^="https://wa.me/"]');
-if(a&&on)gtag("event","conversion",{send_to:W})})}
+document.addEventListener("click",function(e){if(!on||!e.target.closest)return;
+if(e.target.closest('a[href^="https://wa.me/"]'))gtag("event","conversion",{send_to:W});
+else if(e.target.closest('a[href*="agendar/"]'))gtag("event","conversion",{send_to:G})})}
 function apagar(){if(on)gtag("consent","update",{ad_storage:"denied",ad_user_data:"denied"});on=false;var h=location.hostname.replace(/^www\./,"");document.cookie.split(";").forEach(function(c){
 var n=c.split("=")[0].trim();if(n.indexOf("_gcl")===0)["","; domain="+h,"; domain=."+h].forEach(function(d){
 document.cookie=n+"=; max-age=0; path=/"+d})})}
