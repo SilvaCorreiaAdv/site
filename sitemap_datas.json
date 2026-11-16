@@ -25,8 +25,8 @@
 "d": "2026-11-11"
 },
 "artigos": {
-"h": "ccebdda518932808",
-"d": "2026-11-11"
+"h": "805811011ff0ad0d",
+"d": "2026-11-16"
 },
 "atuacao/execucao-fiscal": {
 "h": "cdfad8d1a4f75dfb",
@@ -68,5 +68,9 @@
 "eixo/002": {
 "h": "357c5dacc9914da0",
 "d": "2026-11-13"
+},
+"estudos/divida-ativa-guarulhos-2026": {
+"h": "4cf3611607c0975a",
+"d": "2026-11-16"
 }
 }
