@@ -5,8 +5,8 @@
 "fixa": true
 },
 "": {
-"h": "105db12f6d58cd9f",
-"d": "2026-11-18"
+"h": "98b6fbabdf42e005",
+"d": "2026-11-25"
 },
 "eixo": {
 "h": "88ffe43ecce21eab",
@@ -25,16 +25,16 @@
 "d": "2026-11-11"
 },
 "artigos": {
-"h": "e74972565a8e3bc1",
-"d": "2026-11-18"
+"h": "8b7f6cad7570d3c0",
+"d": "2026-11-25"
 },
 "atuacao/execucao-fiscal": {
-"h": "4d51b87c1e6a0767",
-"d": "2026-11-18"
+"h": "74abbb2eeec23354",
+"d": "2026-11-25"
 },
 "atuacao/transacao-tributaria": {
-"h": "07d4fce4225e5283",
-"d": "2026-11-11"
+"h": "7210f8868691cca0",
+"d": "2026-11-25"
 },
 "atuacao/planejamento-tributario": {
 "h": "26e58c5df2f9868f",
@@ -45,8 +45,8 @@
 "d": "2026-11-11"
 },
 "dr-wesley-silva-correia": {
-"h": "ab78523c72dd7491",
-"d": "2026-11-18"
+"h": "37bc3c2579f147b6",
+"d": "2026-11-25"
 },
 "contato": {
 "h": "319790fe131c340d",
@@ -70,12 +70,17 @@
 "d": "2026-11-13"
 },
 "estudos/divida-ativa-guarulhos-2026": {
-"h": "dd0f406d662269cd",
-"d": "2026-11-18"
+"h": "452aea7c6b7ce673",
+"d": "2026-11-25"
 },
 "artigos/prescricao-divida-tributaria-como-contar": {
 "h": "",
 "d": "2026-11-18",
+"fixa": true
+},
+"artigos/divida-receita-federal-antes-da-divida-ativa": {
+"h": "",
+"d": "2026-11-25",
 "fixa": true
 }
 }
