@@ -5,7 +5,7 @@
 "fixa": true
 },
 "": {
-"h": "98b6fbabdf42e005",
+"h": "512662268ddd2b9a",
 "d": "2026-11-25"
 },
 "eixo": {
@@ -25,7 +25,7 @@
 "d": "2026-11-11"
 },
 "artigos": {
-"h": "8b7f6cad7570d3c0",
+"h": "7bc987fc62615cf2",
 "d": "2026-11-25"
 },
 "atuacao/execucao-fiscal": {
@@ -37,15 +37,15 @@
 "d": "2026-11-25"
 },
 "atuacao/planejamento-tributario": {
-"h": "26e58c5df2f9868f",
-"d": "2026-11-11"
+"h": "82a43a473f12c1d0",
+"d": "2026-11-25"
 },
 "atuacao/creditos-tributarios-e-precatorios": {
 "h": "4d5f6534f70b2bb0",
 "d": "2026-11-11"
 },
 "dr-wesley-silva-correia": {
-"h": "37bc3c2579f147b6",
+"h": "1b38226b0b5ac7dd",
 "d": "2026-11-25"
 },
 "contato": {
@@ -79,6 +79,11 @@
 "fixa": true
 },
 "artigos/divida-receita-federal-antes-da-divida-ativa": {
+"h": "",
+"d": "2026-11-25",
+"fixa": true
+},
+"artigos/lucro-presumido-2027-acrescimo-20-por-cento": {
 "h": "",
 "d": "2026-11-25",
 "fixa": true
